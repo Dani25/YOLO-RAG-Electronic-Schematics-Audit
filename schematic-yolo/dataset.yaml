@@ -1,0 +1,6 @@
+path: C:/Users/User/schematic-yolo/dataset_tiled
+train: images
+val: images  # Pentru început poți folosi același folder
+
+names:
+  0: component
