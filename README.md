@@ -5,7 +5,7 @@
 
 This project implements an advanced solution for the digitization and verification of complex electrical schematics within the automotive industry. The system utilizes a multimodal approach, fusing **Computer Vision (YOLOv8)**, **Retrieval-Augmented Generation (RAG)**, and **Graph Theory** to extract high-fidelity netlists from unstructured PDF documents.
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The project is divided into two primary modules that collaborate to transform raw PDF data into a structured electrical model.
 
